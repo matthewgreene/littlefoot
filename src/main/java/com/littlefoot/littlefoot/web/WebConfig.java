@@ -1,4 +1,4 @@
-package com.littlefoot.littlefoot.config;
+package com.littlefoot.littlefoot.web;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
