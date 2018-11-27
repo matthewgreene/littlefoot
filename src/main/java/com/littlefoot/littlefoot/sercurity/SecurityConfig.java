@@ -1,4 +1,4 @@
-package com.littlefoot.littlefoot;
+package com.littlefoot.littlefoot.sercurity;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
