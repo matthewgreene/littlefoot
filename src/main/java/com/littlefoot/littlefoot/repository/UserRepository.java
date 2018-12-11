@@ -1,4 +1,4 @@
-package com.littlefoot.littlefoot;
+package com.littlefoot.littlefoot.repository;
 
 import com.littlefoot.littlefoot.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
