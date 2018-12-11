@@ -1,4 +1,4 @@
-package com.littlefoot.littlefoot;
+package com.littlefoot.littlefoot.entity;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
